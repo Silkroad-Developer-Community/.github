@@ -1,8 +1,12 @@
+<div align=center>
+
 # [Silkroad Developer Community (SDC)](https://silkroad-developer-community.github.io/)
 
 [![banner](banner.png)](https://silkroad-developer-community.github.io)
 
 [Website](https://silkroad-developer-community.github.io) - [Join Discord](https://discord.gg/FEmNcz7QwP) - [GOVERNANCE](https://github.com/Silkroad-Developer-Community/GOVERNANCE) - [CODE OF CONDUCT](https://github.com/Silkroad-Developer-Community/.github/blob/main/CODE_OF_CONDUCT.md)
+
+</div>
 
 ## Community Resources
 
