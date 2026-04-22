@@ -1,6 +1,6 @@
 <div align=center>
 
-# [Silkroad Developer Community (SDC)](https://silkroad-developer-community.github.io/)
+# [Silkroad Developer Community](https://silkroad-developer-community.github.io/)
 
 [![banner](banner.png)](https://silkroad-developer-community.github.io)
 
